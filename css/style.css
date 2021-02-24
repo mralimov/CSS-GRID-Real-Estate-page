@@ -273,8 +273,7 @@ body {
     text-align: center;
     padding: 1.5rem;
     display: block;
-    transition: all .2s;
-    background-color: rgba(255, 255, 255, 0.05); }
+    transition: all .2s; }
   .nav__link:hover, .nav__link:active {
     background-color: rgba(255, 255, 255, 0.05);
     transform: translateY(-3px); }
